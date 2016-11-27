@@ -30,6 +30,7 @@
 }*/
 
 .side-menu {
+
   position: fixed;
   width: 200px;
   height: 100%;
@@ -155,7 +156,8 @@
 }
 /* Main body section */
 .side-body {
-  margin-left: 310px;
+  padding-top:20px;
+  margin-left: 200px;
 }
 /* small screen */
 @media (max-width: 768px) {
