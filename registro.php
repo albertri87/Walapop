@@ -43,7 +43,7 @@ ini_set("display_errors", 1);
 		<div class="side-menu">
 		<?php
 			//imprimir la estructura y el menu navegador
-			require('plantilla.php');
+			require('formulari/plantilla.php');
 		?>
 	
 		</div>
