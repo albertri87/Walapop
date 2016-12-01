@@ -1,0 +1,135 @@
+.contenedorFoto {
+	width:100%;
+	justify-content: center;
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+
+	background-image: url("../images/usuario-back.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	
+	
+}
+
+.contadores{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	box-shadow: 2px 2px 2px gray;
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+	/*background: yellow;*/
+
+}
+.contadores p{
+
+	font-size: 15px;
+	color: gray;
+	
+	
+}
+
+.contadores  .numeros {
+
+	margin-top:10px;
+	margin-bottom: 0;
+	font-size: 22px;
+}
+
+.contadores div{
+	padding-left: 20px;
+	padding-right: 80px;
+	/*padding-right: 30px;*/
+	/*background: gray;*/
+	margin: 5px;
+	border-right: 2px solid gray;
+
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.contadores div:last-child{
+	
+	
+	border-right: none;
+}
+
+
+.foto {
+
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+}
+
+
+
+*{
+	box-sizing: border-box;
+}
+
+.side-body {
+
+	
+	display: flex;
+	flex-direction: column;
+
+
+}
+.separacion{
+	margin :10px;
+	margin-top:0;
+
+}
+
+.grupo {
+	
+
+	margin-top:0;
+	flex-wrap: wrap;
+	overflow: hidden;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 5px 5px 10px gray;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-bottom: 25px;
+
+	
+}
+
+.altura1 {
+	height: 450px;
+}
+
+.altura2 {
+
+	height: 370px;
+}
+
+.flex {
+		justify-content: center;
+	flex-direction: row;
+	display: flex;
+	 flex-wrap: wrap;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

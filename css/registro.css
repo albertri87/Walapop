@@ -5,9 +5,17 @@
 	
 }
 
+.espai {
+	margin-top:20px;
+}
+
+.espai-formulari{
+	margin-top: 40px;
+}
 
 /*css del formulari*/
 .plantilla {
 	background: white;
 	border-radius: 25px;
+	box-shadow: 10px 10px 10px gray;
 }

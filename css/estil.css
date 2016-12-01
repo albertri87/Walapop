@@ -30,12 +30,12 @@
 }*/
 
 .side-menu {
-
   position: fixed;
   width: 200px;
   height: 100%;
   background-color: #f8f8f8;
   border-right: 1px solid #e7e7e7;
+  
 }
 .side-menu .navbar {
   border: none;
@@ -156,8 +156,8 @@
 }
 /* Main body section */
 .side-body {
-  padding-top:20px;
-  margin-left: 200px;
+  margin-left: 210px;
+  margin-right: px;
 }
 /* small screen */
 @media (max-width: 768px) {
