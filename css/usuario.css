@@ -118,6 +118,43 @@
 
 }
 
+.notProducts{
+	color: gray;
+	display: flex;
+	justify-content: center;
+
+}
+.agregar-productos{
+
+	
+}
+
+.boton {
+
+	
+	width: 100%;
+	
+	display: flex;
+	justify-content: center
+
+}
+.agregar-productos {
+	color: white;
+	top: 500px;
+	position: fixed;
+	border-radius: 100px;
+	background: #18ffff;
+	font-size:35px;
+	width: 60px;
+	height: 60px;
+	display: flex;
+	justify-content: center
+	
+
+
+}
+
+
 
 
 
